@@ -13,12 +13,17 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 - [Papers](#papers)
   - [Survey](#survey)
   - [Research Paper](#research-paper)
+    - [Dual Encoders](#dual-encoders)
+    - [Fusion Encoders](#fusion-encoders)
 - [Datasets](#datasets)
 
 ## Papers
 ### Survey
 
 ### Research Paper
+#### Dual Encoders
+
+#### Fusion Encoders
 
 ## Datasets
 | **Dataset**       | **Images** | **Image-Text Pairs** | **Duration (hrs)** | **Reference**                                                                                                        | **Note**                                                                                 |
