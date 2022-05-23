@@ -13,8 +13,8 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 - [Papers](#papers)
   - [Survey](#survey)
   - [Research Paper](#research-paper)
-    - [Dual Encoders](#dual-encoders)
     - [Fusion Encoders](#fusion-encoders)
+    - [Dual Encoders](#dual-encoders)
     - [Unified Models](#unified-models)
 - [Datasets](#datasets)
 
@@ -27,17 +27,6 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | Vision-and-Language Pretrained Models: A Survey | Siqu Long, Feiqi Cao, Soyeon Caren Han, Haiqin Yang                             |
 
 ### Research Paper
-#### Dual Encoders
-| Method   | Venue      | Reference                                                                                   | Authors                                                                                                                                                                              |
-|----------|------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **2021** |            |                                                                                             |                                                                                                                                                                                      |
-| ALIGN    | Arxiv-2021 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision   | Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig                                                                |
-| FILIP    | Arxiv-2021 | FILIP: Fine-grained Interactive Language-Image Pre-Training                                 | Lewei Yao, Runhui Huang, Lu Hou, Guansong Lu, Minzhe Niu, Hang Xu, Xiaodan Liang, Zhenguo Li, Xin Jiang, Chunjing Xu                                                                 |
-| SLIP     | Arxiv-2021 | SLIP: Self-supervision meets Language-Image Pre-training                                    | Norman Mu, Alexander Kirillov, David Wagner, Saining Xie                                                                                                                             |
-| CLIP     | ICML-2021  | Learning Transferable Visual Models From Natural Language Supervision                       | Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever |
-| **2022** |            |                                                                                             |                                                                                                                                                                                      |
-| Analysis | Arxiv-2022 | Data Determines Distributional Robustness in Contrastive Language Image Pre-training (CLIP) | Alex Fang, Gabriel Ilharco, Mitchell Wortsman, Yuhao Wan, Vaishaal Shankar, Achal Dave, Ludwig Schmidt                                                                               |
-
 #### Fusion Encoders
 | Method         | Venue         | Reference                                                                                                  | Authors                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------|---------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -90,6 +79,20 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | UVLP           | CVPR-2022     | Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment                 | Mingyang Zhou, Licheng Yu, Amanpreet Singh, Mengjiao Wang, Zhou Yu, Ning Zhang                                                                                                                                                                                                                                                                                                                                                          |
 | TCL            | CVPR-2022     | Vision-Language Pre-Training with Triple Contrastive Learning                                              | Jinyu Yang, Jiali Duan, Son Tran, Yi Xu, Sampath Chanda, Liqun Chen, Belinda Zeng, Trishul Chilimbi, Junzhou Huang                                                                                                                                                                                                                                                                                                                      |
 | OFA            | ICML-2022     | Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework     | Peng Wang, An Yang, Rui Men, Junyang Lin, Shuai Bai, Zhikang Li, Jianxin Ma, Chang Zhou, Jingren Zhou, Hongxia Yang                                                                                                                                                                                                                                                                                                                     |
+
+
+#### Dual Encoders
+| Method   | Venue      | Reference                                                                                   | Authors                                                                                                                                                                              |
+|----------|------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **2021** |            |                                                                                             |                                                                                                                                                                                      |
+| ALIGN    | Arxiv-2021 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision   | Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig                                                                |
+| FILIP    | Arxiv-2021 | FILIP: Fine-grained Interactive Language-Image Pre-Training                                 | Lewei Yao, Runhui Huang, Lu Hou, Guansong Lu, Minzhe Niu, Hang Xu, Xiaodan Liang, Zhenguo Li, Xin Jiang, Chunjing Xu                                                                 |
+| SLIP     | Arxiv-2021 | SLIP: Self-supervision meets Language-Image Pre-training                                    | Norman Mu, Alexander Kirillov, David Wagner, Saining Xie                                                                                                                             |
+| CLIP     | ICML-2021  | Learning Transferable Visual Models From Natural Language Supervision                       | Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever |
+| **2022** |            |                                                                                             |                                                                                                                                                                                      |
+| Analysis | Arxiv-2022 | Data Determines Distributional Robustness in Contrastive Language Image Pre-training (CLIP) | Alex Fang, Gabriel Ilharco, Mitchell Wortsman, Yuhao Wan, Vaishaal Shankar, Achal Dave, Ludwig Schmidt                                                                               |
+
+
 
 #### Unified Models
 | Method        | Venue      | Reference                                                                                                | Authors                                                                                                                    |
