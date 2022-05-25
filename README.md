@@ -18,6 +18,7 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
     - [Unified Models](#unified-models)
 - [Datasets](#datasets)
 - [Evaluation](#evaluation)
+- [Tutorials](#tutorials)
 
 ## Papers
 ### Survey
@@ -158,6 +159,9 @@ The following contents are adapted from [this survey](https://arxiv.org/abs/2202
 | Vision-Language Navigation (VLN)                            | VLN is a grounding language task of an agent's locomotion as it sees and explores the real-world dynamics based on linguistic instructions.                                                                                                                                                                                                       |
 | Optical Character Recognition (OCR)                         | OCR generally refers to detecting and recognizing text information in images, which includes two parts: text detection (similar to regression) and text recognition (similar to classification).                                                                                                                                                  |
 
+
+## Tutorials
+- [Vision-Language Pretraining: Current Trends and the Future](https://vlp-tutorial-acl2022.github.io/)
 
 ## Licenses
 
