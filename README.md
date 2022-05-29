@@ -166,7 +166,9 @@ The following contents are adapted from [this survey](https://arxiv.org/abs/2202
 - [Vision-Language Pretraining: Current Trends and the Future](https://vlp-tutorial-acl2022.github.io/)
 
 ## Licenses
-
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Zhihong Chen](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
+
+## Acknowledgement
+This repo started from [this survey](https://arxiv.org/abs/2202.09061). We thank the authors for their comprehensive review of existing studies.
